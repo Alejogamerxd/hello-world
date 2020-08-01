@@ -2,6 +2,8 @@
 # hello-world
 Aprendisaje 
 
-Hola himanos XD
+Hola amigos 
 
 Soy alejandro Gomez acevedo 
+
+y quiero crear un juego :3
